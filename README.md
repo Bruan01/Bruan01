@@ -27,7 +27,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Bruan01&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 <!--     <!-- wakatime -->    
-<!--     <a href="https://wakatime.com/@Bruan01"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a> --> 
+    <a href="https://wakatime.com/@36f3cf18-b379-44d3-9a3b-e92235680dbe"><img src="https://wakatime.com/badge/user/36f3cf18-b379-44d3-9a3b-e92235680dbe.svg" alt="Total time coded since Jan 21 2025" /></a>
 
   </div>
 
@@ -37,8 +37,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/assets/images/icon.png" /></div>
 </div>
+</div>
+
+
+
+
 
 #  🙋 Hello
 
@@ -48,7 +54,6 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是bruan。热爱编程、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
@@ -93,48 +98,6 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                503 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-🌆 Daytime                547 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
-🌃 Evening                445 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
-Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Sunday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               7 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.45 % 
-JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Vue.js                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 22 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      16 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 29/03/2024 01:15:34 UTC
 <!--END_SECTION:waka-->
 
 </td></tr>
@@ -160,16 +123,10 @@ Mac                      16 hrs 22 mins      ███████████�
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bruan01&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Bruan01&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bruan01&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/assets/images/right.png" />
+
 
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/base.svg" />
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -206,8 +163,8 @@ Mac                      16 hrs 22 mins      ███████████�
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
+    <td><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Bruan01/c4b017bf-5c57-4b2f-8db8-b15b80e09b5e.png" width="100%"/></a></td>
+    <td><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Bruan01/71554cad-27ad-4ee9-aee5-fd81125c8447.svg" width="100%" /></a></td>
   </tr>
 </table>
 
@@ -282,11 +239,6 @@ Mac                      16 hrs 22 mins      ███████████�
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 <!-- profile-3d-contrib 3D 贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
 
 </div>
 
@@ -294,51 +246,10 @@ Mac                      16 hrs 22 mins      ███████████�
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/assets/images/githubgif.gif" />
 
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
 
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-</table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/Bruan01/Bruan01/assets/images/icon.png" /></div>
-</div>
